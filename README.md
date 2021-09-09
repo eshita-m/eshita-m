@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eshita-m
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning about object oriented programming, statistics, probability, and data visualization.
-- 💞️ I’m looking to collaborate on inspiring projects.
+- 💞️ I’m looking to collaborate on innovative and inspiring projects.
 - 📫 How to reach me: 
        732-532-4619 & eshitam@terpmail.umd.edu
 
